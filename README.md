@@ -22,7 +22,7 @@ Após a finalização, o candidato deve enviar um e-mail para suporte@b7web.com.
    get , post , put, patch , delete.
 
 2. Qual a diferença entre colocar um script dentro do "head" e no fim do "body"?
-   o head é a confiração da pagina e body é o corpo.
+   o head é a configuração da pagina e body é o corpo.
 
 3. Qual a diferença entre display: block e display: inline-block ?
    o block um embaixo do outro o  incline é em linha.
